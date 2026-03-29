@@ -11,5 +11,5 @@ In this repository, the result of our teamwork (Lukas Hamm, and I) for the Compu
 - Shapes (Shape Template Models (Iterative Closest Points), Statistical Shape Models (Generalized Procrustes Analysis, Subspace model (PCA and PPCA)))
 - Image Alignment (Homography, SIFT algorithm, RANSAC, Image Warping, Image Stitching (image mosaic))
 
-Overview of all topics discussed in the lecture: linear filters, edges, derivatives, Hough transform, segmentation, graph cuts, mean shift, active contours, level sets, Markov Random Fields, 
-expectation maximization, background subtraction, temporal filtering (Kalman filter), active appearance models, shapes, camera calibration, 2d/3d features, stereo, 3D reconstruction, Structure from Motion.
+Overview of all topics discussed in the lecture: linear filters, fourier transform, edges, Hough transform, segmentation, graph cuts, mean shift, active contours (snakes), level sets, Markov Random Fields, 
+expectation maximization, background subtraction, temporal filtering (Kalman filter), active appearance models, shapes, image alignment, camera calibration, 2D/3D features, stereo, 3D reconstruction, Structure from Motion.
