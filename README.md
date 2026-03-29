@@ -1,6 +1,15 @@
-# ComputerVision
+# Computer Vision Exercises
 
-Attending the Computer Vision course by Prof. Dr. Jürgen Gall in the Winter Semester 2025/26.
-This repository will contain all related exercises, research, and project work completed throughout the lecture.
+I attended the Computer Vision course taught by Prof. Dr. Juergen Gall at the University of Bonn during the Winter Semester 2025/26.
+In this repository, the result of our teamwork (Lukas Hamm, and I) for the Computer Vision course exercises are gathered in the form of the following phases/directories:
 
-Lecture Topics include Fourier Transform, Normalized Cross-Correlation, Canny Edge Detector, Hough Transform, Image Segmentation, Mean Shift, Graph Cuts, 3D Pose Estimation, Camera Calibration, Structure From Motion, ...
+- Filtering
+- Pyramids (Fourier Transform, Normalized Cross-Correlation (NCC)) 
+- Edges (Canny Edge Detector, Distance Transform, Hough Transform for cicle detection, Mean Shift)
+- Graph Cuts (Graph Construction, Max-Flow algorithm / Minimum cut, Interactive Object Segmentation Tool (GUI))
+- Background Subtraction (counting the number of people in a video clip (Gaussian Mixture Models))
+- Shapes (Shape Template Models (Iterative Clolest Points), Statistical Shape Models (Generalized Procrustes Analysis, Subspace model (PCA and PPCA)))
+- Image Alignment (Homography, SIFT algorithm, RANSAC, Image Warping, Image Stitching (image mosaic))
+
+Overview of all topics discussed in the lecture: linear filters, edges, derivatives, Hough transform, segmentation, graph cuts, mean shift, active contours, level sets, Markov Random Fields, 
+expectation maximization, background subtraction, temporal filtering (Kalman filter), active appearance models, shapes, camera calibration, 2d/3d features, stereo, 3D reconstruction, Structure from Motion
