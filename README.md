@@ -8,7 +8,7 @@ In this repository, the result of our teamwork (Lukas Hamm, and I) for the Compu
 - Edges (Canny Edge Detector, Distance Transform, Hough Transform for cicle detection, Mean Shift)
 - Graph Cuts (Graph Construction, Max-Flow algorithm / Minimum cut, Interactive Object Segmentation Tool (GUI))
 - Background Subtraction (counting the number of people in a video clip (Gaussian Mixture Models))
-- Shapes (Shape Template Models (Iterative Clolest Points), Statistical Shape Models (Generalized Procrustes Analysis, Subspace model (PCA and PPCA)))
+- Shapes (Shape Template Models (Iterative Closest Points), Statistical Shape Models (Generalized Procrustes Analysis, Subspace model (PCA and PPCA)))
 - Image Alignment (Homography, SIFT algorithm, RANSAC, Image Warping, Image Stitching (image mosaic))
 
 Overview of all topics discussed in the lecture: linear filters, edges, derivatives, Hough transform, segmentation, graph cuts, mean shift, active contours, level sets, Markov Random Fields, 
