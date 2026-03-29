@@ -1,7 +1,7 @@
 # Computer Vision Exercises
 
 I attended the Computer Vision course taught by Prof. Dr. Juergen Gall at the University of Bonn during the Winter Semester 2025/26.
-In this repository, the result of our teamwork (Lukas Hamm, and I) for the Computer Vision course exercises are gathered in the form of the following phases/directories:
+In this repository, the result of our teamwork (Lukas Hamm, and I) for the Computer Vision course exercises are gathered in the form of the following directories:
 
 - Filtering
 - Pyramids (Fourier Transform, Normalized Cross-Correlation (NCC)) 
